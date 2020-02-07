@@ -5,7 +5,7 @@ import com.example.springbootses.dao.domain.NBAPlayer;
 import java.util.List;
 
 /**
- * 使用 esTemplate 操作
+ * 使用 esTemplate 操作（由于版本冲突，实现作废）
  */
 public interface NBAPlayerServiceV2 {
 
